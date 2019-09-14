@@ -2,7 +2,6 @@ This is a "Vulnerable" Web Application developed by Cyber Security and Privacy F
 
 **The full course content is now available on Github for free:**
 
-
 https://github.com/CSPF-Founder/JavaSecurityCourse
 
 
@@ -11,7 +10,6 @@ https://github.com/CSPF-Founder/JavaSecurityCourse
 https://www.udemy.com/hacking-securing-java-web-programming/
 
 **Warning**: Don't run this app in Your Main Machine or in  an online server.  Install it in Vitual Machine.
-
  
 How to Use/Setup ?
 -------------
